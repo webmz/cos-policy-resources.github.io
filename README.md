@@ -1,1 +1,5 @@
-Resources from COS colloquium.
+# Gold Standard Science Resources
+### <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT1twDRxByOKiV8eMIauTP2K4l9Gj47Cg_O4Ye8rhQNJ2gCW3nkU-LDGPMznn9kAmPcLRSKHKNC0Lrg/pubhtml?gid=0&single=true" target="_blank">Federal Agency Gold Standard Science (GSS) Implementation Comparison Chart</a>
+This resource was developed by the Center for Open Science in collaboration with other mission-aligned organizations to share links to agency GSS reports submitted to the White House Office of Science and Technology Policy (OSTP) in August 2025, as instructed by OSTP in <a href="https://www.whitehouse.gov/wp-content/uploads/2025/03/OSTP-Guidance-for-GSS-June-2025.pdf" target="_blank">June 2025 guidance to agencies on GSS implementation</a>. The resource includes at high-level existing policies cited in agency reports, links to scientific integrity policies, opportunities to support or hold agencies accountable in GSS implementation, and notable caveats outlined in agency reports. The resource is a work in progress and comments from the community are welcome to improve its utility and accuracy.
+
+# Opportunities to Contribute
