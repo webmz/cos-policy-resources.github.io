@@ -1,12 +1,13 @@
 # Resources from COS Colloquium on Charting a Path for Research Integrity
-# Gold Standard Science Resources
+## Gold Standard Science Resources
 ### <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT1twDRxByOKiV8eMIauTP2K4l9Gj47Cg_O4Ye8rhQNJ2gCW3nkU-LDGPMznn9kAmPcLRSKHKNC0Lrg/pubhtml?gid=0&single=true" target="_blank">Federal Agency Gold Standard Science (GSS) Implementation Comparison Chart</a>
 This resource was developed by the Center for Open Science in collaboration with other mission-aligned organizations to share links to agency GSS reports submitted to the White House Office of Science and Technology Policy (OSTP) in August 2025, as instructed by OSTP in <a href="https://www.whitehouse.gov/wp-content/uploads/2025/03/OSTP-Guidance-for-GSS-June-2025.pdf" target="_blank">June 2025 guidance to agencies on GSS implementation</a>. The resource includes at high-level existing policies cited in agency reports, links to scientific integrity policies, opportunities to support or hold agencies accountable in GSS implementation, and notable caveats outlined in agency reports. The resource is a work in progress and comments from the community are welcome to improve its utility and accuracy.
 
-# Trackers on Funding Impacts to Science
+## Trackers on Funding Impacts to Science
 * <a href="https://scienceimpacts.org/" target="_blank">SCIMaP</a>, a project to help Americans explore how science and health research fuels the economy, supports jobs, and improves health outcomes. A June 2025 <em>Nature Human Bheaviour</em> <a href="https://www.nature.com/articles/s41562-025-02238-x" target="_blank">correspondence</a> outlines the project's methodology (though the article is paywalled).
+* <a href="https://theimpactproject.org/" target="_blank">The Impact Project</a>, which builds tools to demonstrate the nationwide value of public service on communities across the country. Maps track the individual impact of federal changes across different dimensions.
 
-# Opportunities to Contribute
+## Opportunities to Contribute
 ### <a href="https://www.federalregister.gov/documents/2025/11/26/2025-21150/notice-of-request-for-information-accelerating-the-american-scientific-enterprise" target="_blank">OSTP Request for Information; Accelerating the American Scientific Enterprise</a>
 OSTP has issued a request for information on "Federal policies that aim to accelerate the American scientific enterprise, enable groundbreaking discoveries, and ensure that scientific progress and technological innovation benefit all Americans." Comments are due on December 26, 2025, though interested parties may be able to request an extension for more time to comment, particularly given the short comment period. There are a number of resources for how to submit public comments, including:
 * The American Geophysical Union's <a href="https://www.agu.org/-/media/files/share-and-advocate-for-science/scipol-toolkits/toolkit---submitting-a-public-comment.pdf" target="_blank">Public Comment Toolkit</a>
