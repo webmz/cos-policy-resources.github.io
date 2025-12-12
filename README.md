@@ -2,7 +2,6 @@
 ## Articles Referenced during the Colloquium
 * December 2025 <a href="https://www.insidehighered.com/news/faculty-issues/research/2025/12/05/nih-policy-holding-researchers-hostage" target="_blank">article from <em>Inside Higher Ed</em></a> on implications of the National Institutes of Health's (NIH) policy on public access to publications.
 * CODE white paper on <a href=" https://www.opendataenterprise.org/publications#Future-Health-Data">Ensuring the Future of Essential Health Data for All Americans</a>. On July 9 and 10, 2025, CODE co-hosted an online Roundtable on preserving and improving essential data for public health with the National Conference on Citizenship. The resulting white paper provides an in-depth analysis of the state of public health data today and recommendations for action.
-* CODE white paper on <a href="http://reports.opendataenterprise.org/America_Data_Future_Final.pdf" target="_blank">America's Data Future: Towards a Roadmap for Action</a> published in July 2025.
 * <em>New York Times</em> <a href="https://www.nytimes.com/interactive/2025/12/02/upshot/trump-science-funding-cuts.html" target="_blank">analysis on funding cuts to science and medicine</a>, published on December 2, 2025.
 
 ## Gold Standard Science Resources
@@ -18,8 +17,14 @@
 OSTP has issued a request for information on "Federal policies that aim to accelerate the American scientific enterprise, enable groundbreaking discoveries, and ensure that scientific progress and technological innovation benefit all Americans." Comments are due on December 26, 2025, though interested parties may be able to request an extension for more time to comment, particularly given the short comment period. There are a number of resources for how to submit public comments, including:
 * The American Geophysical Union's <a href="https://www.agu.org/-/media/files/share-and-advocate-for-science/scipol-toolkits/toolkit---submitting-a-public-comment.pdf" target="_blank">Public Comment Toolkit</a>
 * The Environmental Data & Governance Initiative's (EDGI) <a href="https://envirodatagov.org/how-to-write-effective-public-comments/" target="_blank">How to Write Effective Public Comments</a>
-* The Union of Concerned Scientists (UCS) <a href="https://www.ucs.org/resources/participating-federal-rulemaking" target="_blank">Resources for Participating in Federal Rulemaking</a>
+* The Union of Concerned Scientists (UCS) <a href="https://www.ucs.org/resources/participating-federal-rulemaking" target="_blank">Resources for Participating in Federal Rulemaking</a> and <a href="https://www.ucs.org/resources/fair-access" target="_blank">Guidance for Meaningful Public Participation in Government Decisionmaking</a>
 * Regulations.gov <a href="https://www.cogr.edu/sites/default/files/Tips_For_Submitting_Effective_Comments.pdf" target="_blank">Tips for Submitting Effective Comments</a>
 
 ### Sharing Stories of Science
-* Nominate a story of scientific success to <a href="https://www.goldengooseaward.org/" target="_blank">the Golden Goose Award</a> and explore past awardees to share their stories with your communities. 
+* Nominate a story of scientific success to <a href="https://www.goldengooseaward.org/" target="_blank">the Golden Goose Award</a> and explore past awardees to share their stories with your communities.
+* UCS has developed a guide for <a href="https://www.ucs.org/resources/communication-best-practices" target="_blank">communication best practices</a> with tips to communicate more effectively with the public, media, and policy makers.
+
+## Resources to Inform a More Resilient Future for Research
+* The American Association of Universities (AAU) has developed <a href="https://www.aau.edu/key-issues/financial-accountability-research-fair-model" target="_blank">the Financial Accountability in Research (FAIR) model</a>.
+* <a href="https://www.pew.org/en/research-and-analysis/articles/2025/03/27/funders-tailor-approaches-to-ensure-research-meets-real-world-needs" target="_blank">Impact Funders Forum</a> to drive institutional change to connect research to meet real-world needs.
+* CODE white paper on <a href="http://reports.opendataenterprise.org/America_Data_Future_Final.pdf" target="_blank">America's Data Future: Towards a Roadmap for Action</a> published in July 2025.
