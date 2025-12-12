@@ -19,8 +19,14 @@ OSTP has issued a request for information on "Federal policies that aim to accel
 * The Environmental Data & Governance Initiative's (EDGI) <a href="https://envirodatagov.org/how-to-write-effective-public-comments/" target="_blank">How to Write Effective Public Comments</a>
 * The Union of Concerned Scientists (UCS) <a href="https://www.ucs.org/resources/participating-federal-rulemaking" target="_blank">Resources for Participating in Federal Rulemaking</a> and <a href="https://www.ucs.org/resources/fair-access" target="_blank">Guidance for Meaningful Public Participation in Government Decisionmaking</a>
 * Regulations.gov <a href="https://www.cogr.edu/sites/default/files/Tips_For_Submitting_Effective_Comments.pdf" target="_blank">Tips for Submitting Effective Comments</a>
+* Research America's <a href="https://www.researchamerica.org/advocacy-tools/" target="_blank">library of advocacy tools</a>
 
-### Sharing Stories of Science
+### Coalitions and Campaigns
+* <a href="https://unitedforcures.org/" target="_blank">United for Cures</a>
+* <a href="https://unitedforscience.info/" target="_blank">United for Science</a>
+* <a href="https://www.actfornih.org/about/" target="_blank">Act for NIH</a>
+
+## Sharing Stories of Science and Science Communication Guides
 * Nominate a story of scientific success to <a href="https://www.goldengooseaward.org/" target="_blank">the Golden Goose Award</a> and explore past awardees to share their stories with your communities.
 * UCS has developed a guide for <a href="https://www.ucs.org/resources/communication-best-practices" target="_blank">communication best practices</a> with tips to communicate more effectively with the public, media, and policy makers.
 
