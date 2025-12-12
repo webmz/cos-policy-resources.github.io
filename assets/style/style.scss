@@ -1,7 +1,4 @@
----
----
-
-@import "{{ site.theme }}";
+@import "{{ 
 
 h1 {
  color: #1532EB;
@@ -17,3 +14,4 @@ a {
   color: #1532EB;
 }
 
+ }}";
