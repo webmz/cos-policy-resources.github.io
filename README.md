@@ -1,7 +1,7 @@
 # Resources from COS Colloquium on Charting a Path for Research Integrity
 ## Articles Referenced during the Colloquium
 * December 2025 <a href="https://www.insidehighered.com/news/faculty-issues/research/2025/12/05/nih-policy-holding-researchers-hostage" target="_blank">article from <em>Inside Higher Ed</em></a> on implications of the National Institutes of Health's (NIH) policy on public access to publications.
-* CODE white paper on <a href=" https://www.opendataenterprise.org/publications#Future-Health-Data">Ensuring the Future of Essential Health Data for All Americans</a>. On July 9 and 10, 2025, CODE co-hosted an online Roundtable on preserving and improving essential data for public health with the National Conference on Citizenship. The resulting white paper provides an in-depth analysis of the state of public health data today and recommendations for action.
+* CODE white paper on <a href=" https://www.opendataenterprise.org/publications#Future-Health-Data" target="_blank">Ensuring the Future of Essential Health Data for All Americans</a>. On July 9 and 10, 2025, CODE co-hosted an online Roundtable on preserving and improving essential data for public health with the National Conference on Citizenship. The resulting white paper provides an in-depth analysis of the state of public health data today and recommendations for action.
 * <em>New York Times</em> <a href="https://www.nytimes.com/interactive/2025/12/02/upshot/trump-science-funding-cuts.html" target="_blank">analysis on funding cuts to science and medicine</a>, published on December 2, 2025.
 
 ## Gold Standard Science (GSS) EO-related Resources
