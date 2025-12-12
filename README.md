@@ -9,6 +9,14 @@
 * <a href="https://theimpactproject.org/" target="_blank">The Impact Project</a>, which builds tools to demonstrate the nationwide value of public service on communities across the country. Maps track the individual impact of federal changes across different dimensions.
 * <em>New York Times</em> <a href="https://www.nytimes.com/interactive/2025/12/02/upshot/trump-science-funding-cuts.html" target="_blank">analysis on funding cuts to science and medicine</a>, published on December 2, 2025.
 * December 2025 <a href="https://www.insidehighered.com/news/faculty-issues/research/2025/12/05/nih-policy-holding-researchers-hostage" target="_blank">article</a> from <em>Inside Higher Ed</em> on implications of the National Institutes of Health's (NIH) policy on public access to publications.
+### Indirect Costs
+* The American Association of Universities (AAU) has developed <a href="https://www.aau.edu/key-issues/financial-accountability-research-fair-model" target="_blank">the Financial Accountability in Research (FAIR) model</a>.
+
+## Open Data Infrastructure Efforts
+* CODE white paper on <a href="http://reports.opendataenterprise.org/America_Data_Future_Final.pdf" target="_blank">America's Data Future: Towards a Roadmap for Action</a> published in July 2025.
+* CODE white paper on <a href="https://www.opendataenterprise.org/publications#Future-Health-Data" target="_blank">Ensuring the Future of Essential Health Data for All Americans</a>. On July 9 and 10, 2025, CODE co-hosted an online Roundtable on preserving and improving essential data for public health with the National Conference on Citizenship. The resulting white paper provides an in-depth analysis of the state of public health data today and recommendations for action.
+* <a href="https://www.whitehouse.gov/wp-content/uploads/2025/12/M-26-03-Presidents-Management-Agenda.pdf" target="_blank">President's Management Budget</a> has some references to efforts to eliminate silos in data collection, which may provide an advocacy tool for the open data community to advocate for a more efficient collection and management system.
+* COS was recently <a href="https://www.cos.io/about/news/center-for-open-science-awarded-grant-from-robert-wood-johnson-foundation-to-preserve-and-safeguard-publicly-funded-scientific-data?hs_preview=zGFgbAHj-199947975471" target="_blank">awarded funds from the Robert Wood Johnson Foundation</a> to develop a strategic plan to coordinate the community to promote a more resilient system for federally-funded scientific data.
 
 ## Opportunities to Contribute
 ### <a href="https://www.federalregister.gov/documents/2025/11/26/2025-21150/notice-of-request-for-information-accelerating-the-american-scientific-enterprise" target="_blank">OSTP Request for Information; Accelerating the American Scientific Enterprise</a>
@@ -24,12 +32,6 @@ OSTP has issued a request for information on "Federal policies that aim to accel
 * <a href="https://unitedforscience.info/" target="_blank">United for Science</a>
 * <a href="https://www.actfornih.org/about/" target="_blank">Act for NIH</a>
 
-## Sharing Stories of Science and Science Communication Guides
+### Sharing Stories of Science and Science Communication Guides
 * Nominate a story of scientific success to <a href="https://www.goldengooseaward.org/" target="_blank">the Golden Goose Award</a> and explore past awardees to share their stories with your communities.
 * UCS has developed a guide for <a href="https://www.ucs.org/resources/communication-best-practices" target="_blank">communication best practices</a> with tips to communicate more effectively with the public, media, and policy makers.
-
-## Resources to Inform a More Resilient Future for Research
-* The American Association of Universities (AAU) has developed <a href="https://www.aau.edu/key-issues/financial-accountability-research-fair-model" target="_blank">the Financial Accountability in Research (FAIR) model</a>.
-* <a href="https://www.pew.org/en/research-and-analysis/articles/2025/03/27/funders-tailor-approaches-to-ensure-research-meets-real-world-needs" target="_blank">Impact Funders Forum</a> to drive institutional change to connect research to meet real-world needs.
-* CODE white paper on <a href="http://reports.opendataenterprise.org/America_Data_Future_Final.pdf" target="_blank">America's Data Future: Towards a Roadmap for Action</a> published in July 2025.
-* CODE white paper on <a href="https://www.opendataenterprise.org/publications#Future-Health-Data" target="_blank">Ensuring the Future of Essential Health Data for All Americans</a>. On July 9 and 10, 2025, CODE co-hosted an online Roundtable on preserving and improving essential data for public health with the National Conference on Citizenship. The resulting white paper provides an in-depth analysis of the state of public health data today and recommendations for action.
