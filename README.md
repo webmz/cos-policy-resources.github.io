@@ -12,6 +12,7 @@ Many of the agency GSS reports reference long-standing policies and processes ag
 * <a href="https://scienceimpacts.org/" target="_blank">SCIMaP</a>, a project to help Americans explore how science and health research fuels the economy, supports jobs, and improves health outcomes. A June 2025 <em>Nature Human Bheaviour</em> <a href="https://www.nature.com/articles/s41562-025-02238-x" target="_blank">correspondence</a> outlines the project's methodology (though the article is paywalled).
 * <a href="https://theimpactproject.org/" target="_blank">The Impact Project</a>, which builds tools to demonstrate the nationwide value of public service on communities across the country. Maps track the individual impact of federal changes across different dimensions.
 * <em>New York Times</em> <a href="https://www.nytimes.com/interactive/2025/12/02/upshot/trump-science-funding-cuts.html" target="_blank">analysis on funding cuts to science and medicine</a>, published on December 2, 2025.
+* In the <a href="https://www.whitehouse.gov/wp-content/uploads/2025/05/Fiscal-Year-2026-Discretionary-Budget-Request.pdf" target="_blank">FY26 President’s Budget</a>, OMB required NIH to substantially increase the number of multi-year awards (or forward fund awards) instead of funding grants one year at a time. <a href="https://www.actfornih.org/about/" target="_blank">Act for NIH</a> devleoped <a href="https://www.researchamerica.org/wp-content/uploads/2025/11/ACT-for-NIH-Multi-Year-Funding-One-Pager_October-2025.pdf" target="_blank">a one-pager</a> on the impact of this proposed change.
 ### Indirect Costs
 * The American Association of Universities (AAU) has developed <a href="https://www.aau.edu/key-issues/financial-accountability-research-fair-model" target="_blank">the Financial Accountability in Research (FAIR) model</a>.
 
@@ -31,12 +32,12 @@ OSTP has issued a request for information on "Federal policies that aim to accel
 * Research America's <a href="https://www.researchamerica.org/advocacy-tools/" target="_blank">library of advocacy tools</a>
 
 ### Coalitions and Campaigns
-* <a href="https://unitedforcures.org/" target="_blank">United for Cures</a>
-* <a href="https://unitedforscience.info/" target="_blank">United for Science</a>
-* <a href="https://www.actfornih.org/about/" target="_blank">Act for NIH</a>
+* <a href="https://unitedforcures.org/" target="_blank">United for Cures</a> is a collaborative network of patients, families, and patient advocacy organizations dedicated to protecting life-saving biomedical research that has—for decades—been leading the world in delivering treatments and cures in communities across the United States.
 * <a href="https://researchfor.us/" target="_blank">Research for a Stronger America</a> is a 501(c)4 backed by more than 60 public and private universities from more than 30 states who believe deeply in the power of university research to help this country win against its greatest challenges.
 * <a href="https://www.science-engage.org/" target="_blank"> The Engaging Scientists & Engineers in Policy (ESEP) Coalition</a> is an ad hoc alliance of organizations that have joined together to empower scientists and engineers to effectively engage in the policy making process at all levels of government (international, federal, state and local).
 * <a href="https://esal.us/" target="_blank">Engineers & Scientists Acting Locally (ESAL)</a> is is a national organization dedicated to increasing local civic engagement by people with backgrounds in science, technology, engineering, and mathematics (STEM).
+* <a href="https://www.ucs.org/science-network" target="_blank">The UCS Science Network</a> is a network of more than 20,000 fellow scientists, economists, engineers, public health specialists, and other technical experts. They are concerned and motivated experts, applying their knowledge and technical skills to make progress on the most pressing issues of the day.
+* <a href="https://unitedforscience.info/" target="_blank">United for Science</a>
 
 ### Sharing Stories of Science and Science Communication Guides
 * Nominate a story of scientific success to <a href="https://www.goldengooseaward.org/" target="_blank">the Golden Goose Award</a> and explore past awardees to share their stories with your communities.
