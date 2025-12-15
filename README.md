@@ -39,6 +39,9 @@ OSTP has issued a request for information on "Federal policies that aim to accel
 * <a href="https://www.ucs.org/science-network" target="_blank">The UCS Science Network</a> is a network of more than 20,000 fellow scientists, economists, engineers, public health specialists, and other technical experts. They are concerned and motivated experts, applying their knowledge and technical skills to make progress on the most pressing issues of the day.
 * <a href="https://unitedforscience.info/" target="_blank">United for Science</a>
 
+### Funding Opportunities
+* <a href="https://www.ucs.org/resources/science-public-good-fund" target="_blank">Science for the Public Good</a> is a grant program for members of the <a href="https://www.ucs.org/science-network" target="_blank">Science Network</a> at the Union of Concerned Scientists to apply for up to $1,500 of financial support for online advocacy actions, digital community building, or other efforts to advance equitable science-based policy, with an emphasis on addressing local impacts. 
+
 ### Sharing Stories of Science and Science Communication Guides
 * Nominate a story of scientific success to <a href="https://www.goldengooseaward.org/" target="_blank">the Golden Goose Award</a> and explore past awardees to share their stories with your communities.
 * UCS has developed a guide for <a href="https://www.ucs.org/resources/communication-best-practices" target="_blank">communication best practices</a> with tips to communicate more effectively with the public, media, and policy makers.
