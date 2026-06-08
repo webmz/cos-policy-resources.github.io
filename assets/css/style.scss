@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 .page-header {
-      background-image: url(https://www.cos.io/hubfs/Banners/2023/hero23%20default.jpg) no-repeat center center;
+      background: url(https://www.cos.io/hubfs/Banners/2023/hero23%20default.jpg) no-repeat center center !important;
 }
 
 .page-header h1 {
