@@ -2,6 +2,6 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 ---
-title: Resources from COS Colloquium on Charting a Path for Research Integrity
-description: This site will be updated with resources and links discussed at the Center for Open Science's December 12th Colloquium At a Crossroads Charting a Path for Research Integrity
+title: COS resources to support advocacting for policies that increase the openness, integrity, and trustworthiness of reserach
+description: COS advocates for open science policies to policymakers in government and private organizations. This includes Congressional testimony, responses to requests for information, and other formats. These statements are publicly available and are openly licensed for maximal reuse by others.
 ---
