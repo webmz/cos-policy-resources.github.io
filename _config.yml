@@ -1,7 +1,5 @@
+title: COS resources to support advocating for policies that increase the openness, integrity, and trustworthiness of research
+description: COS advocates for open science policies to policymakers in government and private organizations. This includes Congressional testimony, responses to requests for information, and other formats. These statements are publicly available and are openly licensed for maximal reuse by others.
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-- jekyll-remote-theme
----
-title: COS resources to support advocacting for policies that increase the openness, integrity, and trustworthiness of reserach
-description: COS advocates for open science policies to policymakers in government and private organizations. This includes Congressional testimony, responses to requests for information, and other formats. These statements are publicly available and are openly licensed for maximal reuse by others.
----
+  - jekyll-remote-theme
