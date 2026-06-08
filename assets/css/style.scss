@@ -4,10 +4,10 @@
 @import "{{ site.theme }}";
 
 .page-header {
-      background: url(https://www.cos.io/hubfs/Banners/2023/hero23%20default.jpg) no-repeat center center;
+      background-image: url(https://www.cos.io/hubfs/Banners/2023/hero23%20default.jpg) no-repeat center center;
 }
 
-.page-header {
+.page-header h1 {
     color: #ffffff;
     font-weight: 100;
     line-height: 1.2;
