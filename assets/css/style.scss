@@ -3,7 +3,17 @@
 
 @import "{{ site.theme }}";
 
-h1 {
+.page-header {
+      background: url(https://www.cos.io/hubfs/Banners/2023/hero23%20default.jpg) no-repeat center center;
+}
+
+.page-header {
+    color: #ffffff;
+    font-weight: 100;
+    line-height: 1.2;
+}
+
+# content h1 {
  color: #1532eb;
 }
 
