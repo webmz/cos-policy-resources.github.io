@@ -1,4 +1,7 @@
-@import "{{ 
+---
+---
+
+@import "{{ site.theme }}";
 
 h1 {
  color: #1532eb;
@@ -10,8 +13,6 @@ h3 a {
 }
 
 a {
-  background: ##FFD100;
+  background: #FFD100;
   color: #1532EB;
 }
-
- }}";
