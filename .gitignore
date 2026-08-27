@@ -1,0 +1,8 @@
+# Design handoff artifacts — not part of the published site
+design_handoff_advocacy_hub/
+Open Science Advocacy Resources.zip
+
+# Jekyll build output / local
+_site/
+.jekyll-cache/
+.jekyll-metadata
