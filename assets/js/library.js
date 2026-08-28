@@ -129,5 +129,28 @@
     });
   });
 
+  // Auto-populate whole-collection counts (not affected by filtering).
+(function populateCounts() {
+  var setText = function (id, val) {
+    var el = document.getElementById(id);
+    if (el) el.textContent = val;
+  };
+  var uniq = function (key) {
+    var seen = {};
+    cards.forEach(function (c) { if (c[key]) seen[c[key]] = true; });
+    return Object.keys(seen).length;
+  };
+
+  setText("stat-documents", TOTAL);
+  setText("stat-agencies", uniq("agency"));
+
+  pillarCtas.forEach(function (btn) {
+    var topic = btn.dataset.topic;
+    var n = cards.filter(function (c) { return c.topics.indexOf(topic) !== -1; }).length;
+    var slot = btn.querySelector(".pillar__cta-count");
+    if (slot) slot.textContent = n;
+  });
+})();
+
   apply();
 })();
